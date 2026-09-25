@@ -1,0 +1,9 @@
+name=Craft Whole Stack
+id=CraftWholeStack
+description=Right-click a stack and run a recipe on the whole thing. Saw every log, open every can, rip every shirt in one click.
+author=HxHippy
+category=qol
+modversion=1.0.0
+versionMin=42.0.0
+poster=poster.png
+icon=icon.png
