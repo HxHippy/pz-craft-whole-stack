@@ -4,7 +4,7 @@
 
 **Right-click a stack. Craft all of it.**
 
-**[How to use it](GUIDE.md)** | **[Steam Workshop](#install)** | **[Issues](https://github.com/HxHippy/pz-craft-whole-stack/issues)**
+**[How to use it](GUIDE.md)** | **[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3808092345)** | **[Issues](https://github.com/HxHippy/pz-craft-whole-stack/issues)**
 
 Craft Whole Stack is a Project Zomboid **Build 42** mod. Right-click a stack and you can run a recipe on the whole thing instead of clicking it once per item.
 
@@ -23,9 +23,9 @@ Every recipe in the inventory right-click menu gets a sibling option, for exampl
 Craft Whole Stack is client-side Lua on top of vanilla `ISEntityUI.HandcraftStartMultiple`, the same path the crafting window uses for quantities. The server validates every craft as usual. There's no new network code and no server install beyond having the mod enabled.
 
 ## Install
-- **Workshop:** subscribe, then enable **Craft Whole Stack** in Mods.
+- **[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3808092345):** subscribe, then enable **Craft Whole Stack** in Mods.
 - **Manual:** copy this folder to `~/Zomboid/Workshop/CraftWholeStack` and enable it in Mods.
-- **Dedicated server:** add the Workshop ID to `WorkshopItems=` and `CraftWholeStack` to `Mods=`.
+- **Dedicated server:** add `3808092345` to `WorkshopItems=` and `CraftWholeStack` to `Mods=`.
 
 ## Layout
 ```

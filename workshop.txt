@@ -1,4 +1,5 @@
 version=1
+id=3808092345
 title=Craft Whole Stack
 description=[img]https://raw.githubusercontent.com/HxHippy/pz-craft-whole-stack/main/docs/banner.jpg[/img]
 description=
